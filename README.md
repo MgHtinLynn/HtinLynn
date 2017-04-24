@@ -1,4 +1,4 @@
-[My Profile](profile.jpg)
+[My Profile](Profile.jpg)
 
 ## Welcome to My Profiolio
 
@@ -56,7 +56,4 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 
 
 **Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](profile.jpg)
-```
 
