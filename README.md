@@ -1,3 +1,5 @@
+[Image]('profile.jpg')
+
 ## Welcome to My Profiolio
 
 Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Yangon)
@@ -19,7 +21,9 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	Developer In Xan IT Solutions With ACE At 1 years and 4 months in 2016 to currently now
 
 ## PROJECT EXPERIENCE
--	**KBZ Mobile Banking**
+-	**KBZ Mobile Banking** 4 months
+	1. XSL, XML , Oracle
+	2. HTML, CSS, Javascirpts, Ajax, JQuery
 -	**Xan Company WebSite 3 months**
 	1. PHP In Laravel 5.1
 	2. MySql, Ajax, HTML, CSS, Javascripts
