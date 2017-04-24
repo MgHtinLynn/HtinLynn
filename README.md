@@ -1,4 +1,4 @@
-[Image]('profile.jpg')
+[My Profile]('profile.jpg')
 
 ## Welcome to My Profiolio
 
@@ -27,6 +27,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	**Xan Company WebSite 3 months**
 	1. PHP In Laravel 5.1
 	2. MySql, Ajax, HTML, CSS, Javascripts
+	3. Custom Package, Custom Code Structure
 -	**Elibrary Book Management System** 4 months
 	1. PHP In Laravel as Frontend and Java as Backend
 	2. Laravel Rest API JSON 
@@ -52,30 +53,10 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MgHtinLynn/HtinLynn/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
