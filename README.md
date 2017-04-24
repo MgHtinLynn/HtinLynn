@@ -57,6 +57,6 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-
+[Link](url) and ![Image]('profile.jpg')
+```
 
