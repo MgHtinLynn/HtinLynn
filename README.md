@@ -1,14 +1,21 @@
 ## Welcome to My Profiolio
 
-This is My Profiolio.
 Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Yangon)
 				09785360975/ htinlin01@gmail.com
 
 
 
-### Markdown
+## Detail Information
+-	Father's Name  U Hsan Aung
+## EDUCATION & TRAINING
+-	Four Year (E-major) Distance in Dagon University
+-	International Diploma In Computer Studies and Level 5 Diploma in computing MCC
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## EMPLOYMENT EXPERIENCE
+-	Work training in Winner Computer Group at 7 months 2011
+-	Intern Developer by Work training in Techs star IT provider at 2 months on 2014
+-	Junior Developer In New West Company Ltd. At 6 month in 2015 and currently now.
+
 
 ```markdown
 Syntax highlighted code block
