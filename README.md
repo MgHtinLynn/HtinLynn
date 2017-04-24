@@ -25,10 +25,12 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 	2. MySql, Ajax, HTML, CSS, Javascripts
 -	**Elibrary Book Management System** 4 months
 	1. PHP In Laravel as Frontend and Java as Backend
+	2. Laravel API JSON
 	2. Ajax , Javascirpts, JQuery
 -	**Xan Ebook Store(maintenance Mood)** 2 months
 	1. PHP Zend Framework 
-	2. HTML, CSS, Javascripts, JQuery, Ajax,  
+	2. Laravel API JSON for Mobile
+	3. HTML, CSS, Javascripts, JQuery, Ajax,  
 -	**Time-In Time-out Management System** from 2 months On July 2015
 	1. PHP CodeIgniter , MVC & MySql
 	2. HTML, CSS , JQuery , Javascript , Bootstrap
