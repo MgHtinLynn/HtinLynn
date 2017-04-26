@@ -1,4 +1,4 @@
-[My Profile](Profile.jpg)
+[My Image](Profile.jpg)
 
 ## Welcome to My Profiolio
 
@@ -8,7 +8,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 
 
 ## Detail Information
--	Father's Name  U Hsan Aung
+-	Father's Name  -U Hsan Aung
 
 ## EDUCATION & TRAINING
 -	Four Year (E-major) Distance in Dagon University
@@ -18,42 +18,64 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	Work training in Winner Computer Group at 7 months 2011
 -	Intern Developer by Work training in Techs star IT provider at 2 months on 2014
 -	Junior Developer In New West Company Ltd. At 8 month in 2015
--	Developer In Xan IT Solutions With ACE At 1 years and 4 months in 2016 to currently now
+-	Developer In Xan IT Solutions With ACE At 1 years and 4 months from 2016 Dec to currently now
 
 ## PROJECT EXPERIENCE
--	**KBZ Mobile Banking** 4 months
+-	**KBZ Mobile Banking** 4 months(Senior Developer)
 	1. XSL, XML , Oracle
 	2. HTML, CSS, Javascirpts, Ajax, JQuery
--	**Xan Company WebSite 3 months**
+	3. Gitlabs 
+-	**Travel & Tour Website**(Senior Developer Outsource Project with My Private Team (Elements))
+	1. PHP In Laravel 5.3
+	2. MySql, Ajax, HTML, CSS, Javascripts
+	3. Custom Package, Custom Code Structure
+	4. Bitbuckets
+-	**Xan Company WebSite 3 months**(Developer)
 	1. PHP In Laravel 5.1
 	2. MySql, Ajax, HTML, CSS, Javascripts
 	3. Custom Package, Custom Code Structure
--	**Elibrary Book Management System** 4 months
+	4. SVN
+-	**Elibrary Book Management System** 4 months(Developer)
 	1. PHP In Laravel as Frontend and Java as Backend
 	2. Laravel Rest API JSON 
-	2. Ajax , Javascirpts, JQuery
--	**Xan Ebook Store(maintenance Mood)** 2 months
+	3. Ajax , Javascirpts, JQuery
+	4. SVN
+-	**Xan Ebook Store(maintenance Mood)** 2 months(Developer)
 	1. PHP Zend Framework 
 	2. Laravel API Rest JSON for Mobile, SOAP
 	3. HTML, CSS, Javascripts, JQuery, Ajax,  
--	**Time-In Time-out Management System** from 2 months On July 2015
+	4. SVN
+-	**Time-In Time-out Management System** from 2 months On July 2015(Intern Developer)
 	1. PHP CodeIgniter , MVC & MySql
 	2. HTML, CSS , JQuery , Javascript , Bootstrap
--	**Book Store** 				From Feb 2015 To April 2015
+-	**Book Store** 				From Feb 2015 To April 2015(Students)
 	1. PHP CodeIgniter, MVC & Mysql
 	2. HTML, CSS, JQuery, Javascripts, Bootstrap
 -	**H5 Social Network** 		From Augest 2013 to Sept 2013
 	1. PHP & MySql
 	2. HTML, CSS, Java Scripts
--	**Online TV Package Channel**	From July 2013 to Sept 2013
+-	**Online TV Package Channel**	From July 2013 to Sept 2013(Students)
 	1. PHP & MySql
 	2. JavaScripts, HTML, CSS, Ajax
 
+## SKILL
+	**PHP**
+	1. Laravel 5.1 to 5.4
+	2. Vuejs 1.0 to 2.0
+	3. CSS3, HTML5
+	4. Git
+
+## INTEREST
+	**Web development and Programming Languages**
+	**Creating Gaming application**
 
 
 
 
 
 
-**Bold** and _Italic_ and `Code` text
+
+
+
+
 
