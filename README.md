@@ -62,8 +62,9 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 	**PHP**
 	1. Laravel 5.1 to 5.4
 	2. Vuejs 1.0 to 2.0
-	3. CSS3, HTML5
+	3. CSS3, HTML5, JQuery, Ajax, 
 	4. Git
+	5. Restful API, SOAP
 
 ## INTEREST
 	**Web development and Programming Languages**
