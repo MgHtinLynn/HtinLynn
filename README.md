@@ -16,11 +16,12 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	International Diploma In Computer Studies and Level 5 Diploma in computing MCC
 
 ## EMPLOYMENT EXPERIENCE
--	Work training in Winner Computer Group at 7 months 2011
--	Intern Developer by Work training in Techs star IT provider at 2 months on 2014
--	Junior Developer In New West Company Ltd. At 8 month in 2015
--	Developer In Xan IT Solutions With ACE At 1 years from 2015 Dec to 2016 Dec
+-	Work training in Winner Computer Group about 7 months 2011
+-	Intern Developer by Work training in Techs star IT provider about 2 months on 2014
+-	Junior Developer In New West Company Ltd. about 8 month in 2015
+-	Developer In Xan IT Solutions With ACE about 1 years from 2015 Dec to 2016 Dec
 -	Senior Developer In KBZ Mobile Banking Project currently now
+- 	All + 2 years Experiences In Development Field
 
 ## PROJECT EXPERIENCE
 -	**KBZ Mobile Banking** (Senior Developer)
