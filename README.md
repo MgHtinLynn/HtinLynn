@@ -9,19 +9,21 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 
 ## Detail Information
 -	Father's Name  -U Hsan Aung
+- 	Age- 23 
 
 ## EDUCATION & TRAINING
--	Four Year (E-major) Distance in Dagon University
+-	Final Year (E-major) Distance in Dagon University
 -	International Diploma In Computer Studies and Level 5 Diploma in computing MCC
 
 ## EMPLOYMENT EXPERIENCE
 -	Work training in Winner Computer Group at 7 months 2011
 -	Intern Developer by Work training in Techs star IT provider at 2 months on 2014
 -	Junior Developer In New West Company Ltd. At 8 month in 2015
--	Developer In Xan IT Solutions With ACE At 1 years and 4 months from 2016 Dec to currently now
+-	Developer In Xan IT Solutions With ACE At 1 years from 2015 Dec to 2016 Dec
+-	Senior Developer In KBZ Mobile Banking Project currently now
 
 ## PROJECT EXPERIENCE
--	**KBZ Mobile Banking** 4 months(Senior Developer)
+-	**KBZ Mobile Banking** (Senior Developer)
 	1. XSL, XML , Oracle
 	2. HTML, CSS, Javascirpts, Ajax, JQuery
 	3. Gitlabs 
@@ -35,7 +37,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 	2. MySql, Ajax, HTML, CSS, Javascripts
 	3. Custom Package, Custom Code Structure
 	4. SVN
--	**Elibrary Book Management System** 4 months(Developer)
+-	**E-library Book Management System** 4 months(Developer)
 	1. PHP In Laravel as Frontend and Java as Backend
 	2. Laravel Rest API JSON 
 	3. Ajax , Javascirpts, JQuery
@@ -65,6 +67,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 	3. CSS3, HTML5, JQuery, Ajax, 
 	4. Git
 	5. Restful API, SOAP
+	6. XSL, XML, FAML
 
 ## INTEREST
 	**Web development and Programming Languages**
