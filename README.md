@@ -21,7 +21,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	Junior Developer In New West Company Ltd. about 8 month in 2015
 -	Developer In Xan IT Solutions With ACE about 1 years from 2015 Dec to 2016 Dec
 -	Senior Developer In KBZ Mobile Banking Project currently now
-- 	All + 2 years Experiences In Web Development Field
+- 	All + 3 years Experiences In Web Development Field
 
 ## PROJECT EXPERIENCE
 -	**KBZ Mobile Banking** (Senior Developer)
