@@ -37,7 +37,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 	2. MySql, Ajax, HTML, CSS, Javascripts
 	3. Custom Package, Custom Code Structure
 	4. SVN
--	**E-library Book Management System** 4 months(Developer)
+-	**E-library Book Management System** 4 months(Laravel Developer)
 	1. PHP In Laravel as Frontend and Java as Backend
 	2. Laravel Rest API JSON 
 	3. Ajax , Javascirpts, JQuery
