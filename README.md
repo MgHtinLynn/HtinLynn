@@ -14,6 +14,8 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 ## EDUCATION & TRAINING
 -	Final Year (E-major) Distance in Dagon University
 -	International Diploma In Computer Studies and Level 5 Diploma in computing MCC
+-	PHP Programming Advanced & MVC(New Westminster Institute)
+-	Myanmar Links Web Professional(Advance)
 
 ## EMPLOYMENT EXPERIENCE
 -	Work training in Winner Computer Group about 7 months 2011
