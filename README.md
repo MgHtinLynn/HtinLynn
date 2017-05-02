@@ -24,7 +24,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 - 	All + 3 years Experiences In Web Development Field
 
 ## PROJECT EXPERIENCE
--	**KBZ Mobile Banking** (Senior Developer)
+-	**KBZ i-Banking** (Senior Developer)
 	1. XSL, XML , Oracle
 	2. HTML, CSS, Javascirpts, Ajax, JQuery
 	3. Gitlabs 
