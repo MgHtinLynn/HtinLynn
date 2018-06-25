@@ -16,16 +16,22 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	International Diploma In Computer Studies and Level 5 Diploma in computing MCC
 -	PHP Programming Advanced & MVC(New Westminster Institute)
 -	Myanmar Links Web Professional(Advance)
+-   Android Basic (PADC)
 
 ## EMPLOYMENT EXPERIENCE
 -	Work training in Winner Computer Group about 7 months 2011
 -	Intern Developer by Work training in Techs star IT provider about 2 months on 2014
 -	Junior Developer In New West Company Ltd. about 8 month in 2015
 -	Developer In Xan IT Solutions With ACE about 1 years from 2015 Dec to 2016 Dec
--	Senior Developer In KBZ i-Banking Project currently now
-- 	All + 3 years Experiences In Web Development Field
+-	Senior Developer In KBZ i-Banking Project about 8 months 
+-   Senior PhP Developer In Nexlabs currently now
+- 	All + 4 years Experiences In Web Development Field
 
 ## PROJECT EXPERIENCE
+-   **Mingalarletphwet** 7 months (Senior PHP Developer)
+    1. PHP in Laravel 5.4
+    2. Blade, Mysqli, Ajax, HTML, CSS, JQuery
+    3. Gitlabs, Backend , FrontEnd, Custom Code Structure, Custom Package
 -	**KBZ i-Banking** (Senior Developer)
 	1. XSL, XML , Oracle
 	2. HTML, CSS, Javascirpts, Ajax, JQuery
@@ -65,12 +71,13 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 
 ## SKILL
 	**PHP**
-	1. Laravel 5.1 to 5.4
-	2. Vuejs 1.0 to 2.0
+	1. Laravel 5.1 to 5.6
+	2. Vuejs 1.0 to 2.5
 	3. CSS3, HTML5, JQuery, Ajax, 
 	4. Git
 	5. Restful API, SOAP
 	6. XSL, XML, FAML
+	7. Redis, RealTime-Notifcation, API
 
 ## INTEREST
 	**Web development and Programming Languages**
