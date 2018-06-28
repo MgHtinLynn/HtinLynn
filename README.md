@@ -24,8 +24,9 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	Junior Developer In New West Company Ltd. about 8 month in 2015
 -	Developer In Xan IT Solutions With ACE about 1 years from 2015 Dec to 2016 Dec
 -	Senior Developer In KBZ i-Banking Project about 8 months 
--   Senior PhP Developer In Nexlabs currently now
+-   Senior PHP Developer In Nexlabs currently now
 - 	All + 4 years Experiences In Web Development Field
+-   Experience with Linux Environment (Fedora, Ubuntu)
 
 ## PROJECT EXPERIENCE
 -   **Mingalarletphwet** 7 months (Senior PHP Developer)
@@ -49,7 +50,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	**E-library Book Management System** 4 months(Laravel Developer)
 	1. PHP In Laravel as Frontend and Java as Backend
 	2. Laravel Rest API JSON 
-	3. Ajax , Javascirpts, JQuery
+	3. Ajax , JavaScripts, JQuery
 	4. SVN
 -	**Xan Ebook Store(maintenance Mood)** 2 months(Developer)
 	1. PHP Zend Framework 
@@ -62,7 +63,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	**Book Store** 				From Feb 2015 To April 2015(Students)
 	1. PHP CodeIgniter, MVC & Mysql
 	2. HTML, CSS, JQuery, Javascripts, Bootstrap
--	**H5 Social Network** 		From Augest 2013 to Sept 2013
+-	**H5 Social Network** 		From August 2013 to Sept 2013
 	1. PHP & MySql
 	2. HTML, CSS, Java Scripts
 -	**Online TV Package Channel**	From July 2013 to Sept 2013(Students)
@@ -74,10 +75,11 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 	1. Laravel 5.1 to 5.6
 	2. Vuejs 1.0 to 2.5
 	3. CSS3, HTML5, JQuery, Ajax, 
-	4. Git
+	4. Git, SVN
 	5. Restful API, SOAP
 	6. XSL, XML, FAML
 	7. Redis, RealTime-Notifcation, API
+	8. Linux (Fedora, Ubuntu)
 
 ## INTEREST
 	**Web development and Programming Languages**
