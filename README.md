@@ -27,8 +27,19 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -   Senior PHP Developer In Nexlabs currently now
 - 	All + 4 years Experiences In Web Development Field
 -   Experience with Linux Environment (Fedora, Ubuntu)
+-   JuniorExperience with AWS (EC2, RDS, ELB, S3)
 
-## PROJECT EXPERIENCE
+## PROJECT 
+-   **Article Blog Website (Junior Full-Stack Developer)**
+    1.PHP In Laravel 5.6, Nuxt In VueJS
+    2.Eloquent ORM, Cron, Real-Time, API with GraphQL
+    3.MariaDB, Yarn, APOLLO Graphql, AWS-S3
+    4.Gitlabs
+-   **Easy Project Planner Website And Product (Senior Laravel Developer)**
+    1.PHP In Laravel 5.6, Nuxt In VueJS
+    2.Eloquent ORM, Cron,Queue, Real-Time, API, Restful
+    3.MariaDB, Yarn, AXIOS, AWS-S3, Redis
+    4.Gitlabs    
 -   **Mingalarletphwet** 7 months (Senior PHP Developer)
     1. PHP in Laravel 5.4
     2. Blade, Mysqli, Ajax, HTML, CSS, JQuery
@@ -37,7 +48,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 	1. XSL, XML , Oracle
 	2. HTML, CSS, Javascirpts, Ajax, JQuery
 	3. Gitlabs 
--	**Travel & Tour Website**(Senior Developer Outsource Project with My Private Team (Elements))
+-	**Travel & Tour Website**(Senior Developer Outsource Project with My Freelance Team (Elements))
 	1. PHP In Laravel 5.3
 	2. MySql, Ajax, HTML, CSS, Javascripts
 	3. Custom Package, Custom Code Structure
@@ -71,15 +82,19 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 	2. JavaScripts, HTML, CSS, Ajax
 
 ## SKILL
-	**PHP**
-	1. Laravel 5.1 to 5.6
-	2. Vuejs 1.0 to 2.5
-	3. CSS3, HTML5, JQuery, Ajax, 
-	4. Git, SVN
-	5. Restful API, SOAP
-	6. XSL, XML, FAML
-	7. Redis, RealTime-Notifcation, API
-	8. Linux (Fedora, Ubuntu)
+	**PHP** and **VUE**
+	1.Laravel 5.1 to 5.7
+	2.Zend Framework
+	3.CodeIgniter
+    4.Vuejs 1.0 to 2.5
+    5.NuxtJS
+	6.CSS3, HTML5, JQuery, Ajax, 
+	7.Git, SVN
+	8.Restful API, SOAP
+	9.XSL, XML, FAML
+	10.Redis, RealTime-Notifcation, API
+	11.Linux (Fedora, Ubuntu)
+	12.AWS (EC2, RDS, ELB, S3)
 
 ## INTEREST
 	**Web development and Programming Languages**
