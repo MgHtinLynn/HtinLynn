@@ -31,15 +31,15 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 
 ## PROJECT 
 -   **Article Blog Website (Junior Full-Stack Developer)**
-    1.PHP In Laravel 5.6, Nuxt In VueJS
-    2.Eloquent ORM, Cron, Real-Time, API with GraphQL
-    3.MariaDB, Yarn, APOLLO Graphql, AWS-S3
-    4.Gitlabs
+    1. PHP In Laravel 5.6, Nuxt In VueJS
+    2. Eloquent ORM, Cron, Real-Time, API with GraphQL
+    3. MariaDB, Yarn, APOLLO Graphql, AWS-S3
+    4. Gitlabs
 -   **Easy Project Planner Website And Product (Senior Laravel Developer)**
-    1.PHP In Laravel 5.6, Nuxt In VueJS
-    2.Eloquent ORM, Cron,Queue, Real-Time, API, Restful
-    3.MariaDB, Yarn, AXIOS, AWS-S3, Redis
-    4.Gitlabs    
+    1. PHP In Laravel 5.6, Nuxt In VueJS
+    2. Eloquent ORM, Cron,Queue, Real-Time, API, Restful
+    3. MariaDB, Yarn, AXIOS, AWS-S3, Redis
+    4. Gitlabs    
 -   **Mingalarletphwet** 7 months (Senior PHP Developer)
     1. PHP in Laravel 5.4
     2. Blade, Mysqli, Ajax, HTML, CSS, JQuery
