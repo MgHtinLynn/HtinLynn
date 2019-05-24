@@ -40,7 +40,6 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
     2. Eloquent ORM, Cron, Real-Time, API with GraphQL
     3. MariaDB, Yarn, APOLLO Graphql, AWS-S3, Element UI
     4. Gitlabs (CI/CD)
-- 
 -   **Article Blog Website (Junior Full-Stack Developer)**
     1. PHP In Laravel 5.6, NuxtJS In VueJS
     2. Eloquent ORM, Cron, Real-Time, API with GraphQL
