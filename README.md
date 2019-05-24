@@ -1,6 +1,6 @@
 [My Image](Profile.jpg)
 
-## Welcome to My Profiolio
+## Welcome to My Portfolio
 
 Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Yangon)
 				09785360975/ htinlin01@gmail.com
@@ -9,7 +9,7 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 
 ## Detail Information
 -	Father's Name  -U Hsan Aung
-- 	Age- 23 
+- 	Age- 24 
 
 ## EDUCATION & TRAINING
 -	Final Year (E-major) Distance in Dagon University
@@ -26,17 +26,28 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	Senior Developer In KBZ i-Banking Project about 8 months 
 -   Senior PHP Developer In Nexlabs currently now
 - 	All + 4 years Experiences In Web Development Field
--   Experience with Linux Environment (Fedora, Ubuntu)
+-   Experience with Linux Kernel Environment (Fedora, Ubuntu, Mac)
 -   JuniorExperience with AWS (EC2, RDS, ELB, S3)
 
 ## PROJECT 
+-   **YSH (Better HR Customized Version) (Full-Stack Developer)**
+    1. PHP In Laravel 5.5, NuxtJS In VueJS
+    2. Eloquent ORM, Cron, Real-Time, API with GraphQL
+    3. MariaDB, Yarn, APOLLO Graphql, AWS-S3, Element UI
+    4. Gitlabs (CI/CD)
+-   **Better HR (Full-Stack Developer)**
+    1. PHP In Laravel 5.5, NuxtJS In VueJS
+    2. Eloquent ORM, Cron, Real-Time, API with GraphQL
+    3. MariaDB, Yarn, APOLLO Graphql, AWS-S3, Element UI
+    4. Gitlabs (CI/CD)
+- 
 -   **Article Blog Website (Junior Full-Stack Developer)**
-    1. PHP In Laravel 5.6, Nuxt In VueJS
+    1. PHP In Laravel 5.6, NuxtJS In VueJS
     2. Eloquent ORM, Cron, Real-Time, API with GraphQL
     3. MariaDB, Yarn, APOLLO Graphql, AWS-S3
     4. Gitlabs
 -   **Easy Project Planner Website And Product (Senior Laravel Developer)**
-    1. PHP In Laravel 5.6, Nuxt In VueJS
+    1. PHP In Laravel 5.6, NuxtJS In VueJS
     2. Eloquent ORM, Cron,Queue, Real-Time, API, Restful
     3. MariaDB, Yarn, AXIOS, AWS-S3, Redis
     4. Gitlabs    
