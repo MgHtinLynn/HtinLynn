@@ -32,12 +32,12 @@ Contact Details (103-R2, Mya Khan Thar Housing , Hlaing Township, Yangon)
 -   DeveloperExperience with Docker
 
 ## PROJECT 
--   ** Channel Portal ( Wave Channel Portal ) (Web Developer) ** 
+-   **Channel Portal ( Wave Channel Portal ) (Web Developer)** 
     1. PHP In Laravel 5.7, Vue JS 
     2. Eloquent ORM, Cron, Real-Time, REST API
     3. Postgres, Oracle DB , NPM, Bootstrap-vue , Unit Testing, Feature Testing
     4. Github (CI/CD), Docker
--   ** Partner Portal ( Wave Partner Portal ) (Web Developer) ** 
+-   **Partner Portal ( Wave Partner Portal ) (Web Developer)** 
     1. PHP In Laravel 5.7, Vue JS 
     2. Eloquent ORM, Cron, Real-Time, REST API
     3. Postgres, Oracle DB , NPM, Bootstrap-vue , Unit Testing, Feature Testing
