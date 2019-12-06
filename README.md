@@ -2,14 +2,14 @@
 
 ## Welcome to My Portfolio
 
-Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Yangon)
+Contact Details (103-R2, Mya Khan Thar Housing , Hlaing Township, Yangon)
 				09785360975/ htinlin01@gmail.com
 
 
 
 ## Detail Information
 -	Father's Name  -U Hsan Aung
-- 	Age- 24 
+- 	Age- 25
 
 ## EDUCATION & TRAINING
 -	Final Year (E-major) Distance in Dagon University
@@ -24,12 +24,24 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 -	Junior Developer In New West Company Ltd. about 8 month in 2015
 -	Developer In Xan IT Solutions With ACE about 1 years from 2015 Dec to 2016 Dec
 -	Senior Developer In KBZ i-Banking Project about 8 months 
--   Senior PHP Developer In Nexlabs currently now
+-   Senior PHP Developer In Nexlabs about 2 years to June 2019
+-   Web Developer In Wave Money currently now
 - 	All + 4 years Experiences In Web Development Field
 -   Experience with Linux Kernel Environment (Fedora, Ubuntu, Mac)
--   JuniorExperience with AWS (EC2, RDS, ELB, S3)
+-   JuniorExperience with AWS (EC2, RDS, ELB, S3), Kubernetes
+-   DeveloperExperience with Docker
 
 ## PROJECT 
+-   ** Channel Portal ( Wave Channel Portal ) (Web Developer) ** 
+    1. PHP In Laravel 5.7, Vue JS 
+    2. Eloquent ORM, Cron, Real-Time, REST API
+    3. Postgres, Oracle DB , NPM, Bootstrap-vue , Unit Testing, Feature Testing
+    4. Github (CI/CD), Docker
+-   ** Partner Portal ( Wave Partner Portal ) (Web Developer) ** 
+    1. PHP In Laravel 5.7, Vue JS 
+    2. Eloquent ORM, Cron, Real-Time, REST API
+    3. Postgres, Oracle DB , NPM, Bootstrap-vue , Unit Testing, Feature Testing
+    4. Github (CI/CD), Docker
 -   **YSH (Better HR Customized Version) (Full-Stack Developer)**
     1. PHP In Laravel 5.5, NuxtJS In VueJS
     2. Eloquent ORM, Cron, Real-Time, API with GraphQL
@@ -93,22 +105,24 @@ Contact Details (28(A),Padoma Street,Eastern Pyi Road Quarter, Dagon Township, Y
 
 ## SKILL
 	**PHP** and **VUE**
-	1.Laravel 5.1 to 5.7
+	1.Laravel 5.1 to 6.6.0
 	2.Zend Framework
 	3.CodeIgniter
-    4.Vuejs 1.0 to 2.5
-    5.NuxtJS
+    4.Vuejs 1.0 to 2.6
+    5.NuxtJS, VueJS
 	6.CSS3, HTML5, JQuery, Ajax, 
 	7.Git, SVN
-	8.Restful API, SOAP
+	8.Restful API, SOAP, GraphQL
 	9.XSL, XML, FAML
-	10.Redis, RealTime-Notifcation, API
+	10.Redis, Memcached, RealTime Notification, API
 	11.Linux (Fedora, Ubuntu)
 	12.AWS (EC2, RDS, ELB, S3)
+	13.Docker
 
 ## INTEREST
 	**Web development and Programming Languages**
 	**Creating Gaming application**
+
 
 
 
