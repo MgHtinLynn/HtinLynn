@@ -1,4 +1,4 @@
-[My Image](Profile.jpg)
+[My Image](profile.jpeg)
 
 ## Welcome to My Portfolio
 
