@@ -31,6 +31,36 @@ Contact Details (103-R2, Mya Khan Thar Housing , Hlaing Township, Yangon)
 -   JuniorExperience with AWS (EC2, RDS, ELB, S3), Kubernetes
 -   DeveloperExperience with Docker
 
+## CAREER
+
+-	**Wave Money (Web Developer)** (Full-Time) (July 2019 - April 2021)
+	
+	-	Design and Develop Web Portal
+	-	Design and Develop Mobile Web View
+	-	Dockerize Environment
+	-	Unit Testing (PHPUnit , Jest)
+
+-	**Nexlabs (Senior PHP Developer)** (Full-Time) (June 2017 - June 2019)
+
+	-	Design API pattern and project architecture
+ 	-	Develop Mingalarletphwet Website
+ 	-	Develop Easy Project Planner Website And Product
+ 	-	Develop Better HR Product
+	 
+-	**ACE Data System (Senior Developer)** (Full-Time) (Dec 2015 - June 2017)
+	
+	-	Implement KBZ Mobile Banking (Web)
+	-	Design XSLT to getting XSL Query from SOAP API
+	-	Maintainable Digital Ebook Store(Xan Book Store)
+	-	Develop E-library Book Management SystemJ2
+	-	PHP In Laravel as Frontend and Java as Backend
+
+-	**Tech Star IT (Junior Developer)**  (Full-Time) (March 2014 - July 2015)
+
+	-	Design and Develop Hotel Booking System (Web)
+	-	Maintainable Service Co-Branch Hotel Booking System (Web)
+	 
+
 ## PROJECT 
 -	International Remittances Portal (WaveMoney Portal)  (Full-Stack Developer)
 -	Online Biller Web View (WaveMoney Portal)  (Full-Stack Developer)
