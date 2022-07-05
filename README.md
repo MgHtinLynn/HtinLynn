@@ -2,18 +2,12 @@
 
 ## Welcome to My Portfolio
 
-Contact Details (103-R2, Mya Khan Thar Housing , Hlaing Township, Yangon)
-				09785360975/ htinlin01@gmail.com
-
-
-
-## Detail Information
--	Father's Name  -U Hsan Aung
-- 	Age- 27
+Contact Details (22 Tanah Merah Kechil Link, Urban Vista 465427, Singapore)
+				+6584270130/ htinlin01@gmail.com
 
 ## EDUCATION & TRAINING
 -	Final Year (E-major) Distance in Dagon University
--	International Diploma In Computer Studies and Level 5 Diploma in computing MCC
+-	International Diploma In Computer Studies and Level 5 Diploma in computing (NCC Eudcation UK)
 -	PHP Programming Advanced & MVC(New Westminster Institute)
 -	Myanmar Links Web Professional(Advance)
 -   Android Basic (PADC)
@@ -33,12 +27,28 @@ Contact Details (103-R2, Mya Khan Thar Housing , Hlaing Township, Yangon)
 
 ## CAREER
 
+-	**WebQuest IO (Full Stack Developer)** (FullTime) (Augest 2021 - Present)
+	
+	-	Design, Develop and Maintain Web Development
+	-	Design and Develop Mobile Web View
+	-	Dockerize Environment
+	- 	PHP In Laravel, ReactJS, VueJS, AlpineJS, Livewire
+	-	Unit Testing (PHPUnit, Feature Testing , Jest, Dusk)
+
+-	**Solveware (Software Developer)** (Remote) (May 2021 - July 2021)
+	
+	-	Design, Develop and Maintain Web Development
+	-	Design and Develop Mobile Web View
+	-	Dockerize Environment
+	- 	Yii Framework (PHP)
+	-	Unit Testing (PHPUnit , Jest)
+
 -	**Wave Money (Web Developer)** (Full-Time) (July 2019 - April 2021)
 	
 	-	Design and Develop Web Portal
 	-	Design and Develop Mobile Web View
 	-	Dockerize Environment
-	-	Unit Testing (PHPUnit , Jest)
+	-	Unit Testing (PHPUnit, Feature Testing , Jest, Dusk)
 
 -	**Nexlabs (Senior PHP Developer)** (Full-Time) (June 2017 - June 2019)
 
