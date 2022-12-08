@@ -3,10 +3,10 @@
 ## Welcome to My Portfolio
 
 Contact Details (Muang Phuket 83000, Thailand)
-				+66 61870263/ htinlin01@gmail.com
+				+6661870263/ htinlin01@gmail.com
 
 ## EDUCATION & TRAINING
--	Bachelor's degree, Business Information Technology, Bachelor's degree, Business Information Technology
+-	B.Sc (Hons:) Business IT
 -	International Diploma In Computer Studies and Level 6 Diploma in computing (NCC Eudcation UK)
 -	International Diploma In Computer Studies and Level 5 Diploma in computing (NCC Eudcation UK)
 -	Final Year (E-major) Distance in Dagon University
