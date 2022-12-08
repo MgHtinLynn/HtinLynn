@@ -2,12 +2,15 @@
 
 ## Welcome to My Portfolio
 
-Contact Details (22 Tanah Merah Kechil Link, Urban Vista 465427, Singapore)
-				+6584270130/ htinlin01@gmail.com
+Contact Details (Muang Phuket 83000, Thailand)
+				+66 61870263/ htinlin01@gmail.com
 
 ## EDUCATION & TRAINING
--	Final Year (E-major) Distance in Dagon University
+-	Bachelor's degree, Business Information Technology, Bachelor's degree, Business Information Technology
+-	International Diploma In Computer Studies and Level 6 Diploma in computing (NCC Eudcation UK)
 -	International Diploma In Computer Studies and Level 5 Diploma in computing (NCC Eudcation UK)
+-	Final Year (E-major) Distance in Dagon University
+-	International Diploma In Computer Studies and Level 4 Diploma in computing (NCC Eudcation UK)
 -	PHP Programming Advanced & MVC(New Westminster Institute)
 -	Myanmar Links Web Professional(Advance)
 -   Android Basic (PADC)
